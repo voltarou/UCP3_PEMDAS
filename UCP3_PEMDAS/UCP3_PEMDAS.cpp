@@ -121,7 +121,7 @@ int main()
     varPerusahaan->tambahKaryawan(varKaryawan1);
     varPerusahaan->tambahKaryawan(varKaryawan2);
 
-    varPerusahaan->cetakKaryawan();
+    varPerusahaan->cetakKaryawan(); 
     varproyek->cetakKaryawan();
 
    
